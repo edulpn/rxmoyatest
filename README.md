@@ -11,4 +11,4 @@ The dependencies are:
 
 [Swinject](https://github.com/Swinject/Swinject)
 
-[ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper)
+[ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)
