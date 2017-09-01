@@ -1,0 +1,5 @@
+github "Moya/Moya"
+github "ReactiveX/RxSwift" ~> 3.0
+github "Swinject/Swinject" "2.0.0"
+github "Swinject/SwinjectStoryboard" "1.0.0"
+github "Hearst-DD/ObjectMapper" ~> 2.2
